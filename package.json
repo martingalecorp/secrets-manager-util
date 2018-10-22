@@ -1,0 +1,22 @@
+{
+  "name": "secrets-manager-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martingalecorp/secrets-manager-util.git"
+  },
+  "author": "Julian Okuyiga <julian@pactinsurance.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martingalecorp/secrets-manager-util/issues"
+  },
+  "homepage": "https://github.com/martingalecorp/secrets-manager-util#readme",
+  "dependencies": {
+    "aws-sdk": "^2.339.0"
+  }
+}
